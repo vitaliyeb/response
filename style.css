@@ -12,7 +12,7 @@ body{
 p{
     display: block;
     margin: auto;
-    font-size: clamp(25px, 10vw, 80px);
+    font-size: clamp(50px, 10vw, 80px);
     color: #fff;
     animation: 3s infinite alternate send;
 }
@@ -24,7 +24,7 @@ p{
         opacity: 0;
     }
     50% {
-        transform: scale(0.5);
+        transform: scale(0.75);
         opacity: 1;
     }
 }
