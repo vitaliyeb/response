@@ -4,8 +4,8 @@
 let el = document.getElementById('response-text');
 let i = 0;
 let s = [
-    'Мария Ефремова',
-    'иди нахуй -_-'
+    'Хочу',
+    'Серегу ♡'
 ];
 
 el.addEventListener('animationiteration', ()=>{
